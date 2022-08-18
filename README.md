@@ -25,6 +25,8 @@ Putting an ***emoticon*** in markdown.
   - [ ] and :smile:
 ~
 
+**LISTS**
+
 So you can make ordered and unordered lists in markdown just like HTML!
 
 <ol>
