@@ -89,6 +89,7 @@ function sample(arr, req) {
 
  LYNMP Logo is :  ![LYNMP logo](https://i.esdrop.com/d/dLd7n17hg9.png#style=max-width:40px;vertical-align:middle; "LYMNP Logo")
 
+> Making a java code block in Markdown.
 
 ```java
 
@@ -104,3 +105,8 @@ public class MyApplication {
 </pre>
 
  ```
+
+ <h3> Making a ***link** in Markdown.
+
+ - Happy Day!
+[Jensen YH@IT Blog Magazine] (https://wwww.jensenyhkistagrupp04.com/)
