@@ -24,6 +24,8 @@ Putting an ***emoticon*** in markdown.
 
   - [ ] and :smile:
 ~
+    - [ ] https://github.com/octo-org/octo-repo/issues/740
+
 
 **LISTS**
 
@@ -89,6 +91,7 @@ function sample(arr, req) {
 
  LYNMP Logo is :  ![LYNMP logo](https://i.esdrop.com/d/dLd7n17hg9.png#style=max-width:40px;vertical-align:middle; "LYMNP Logo")
 
+
 > Making a java code block in Markdown.
 
 ```java
@@ -116,8 +119,18 @@ public class MyApplication {
 |grupp4|Mohamed|
 
 
-  *Making a **link** in Markdown.
+         *Skillnaden*
+    ---|--- |
+    Frontend| Backend
+
+
+  > *Making a **link** in Markdown*
 
  Happy*Day*MEOW!
 
-[Jensen YH@IT B:log Magazine] (https://www.jensenyhkistagrupp04.com/)
+ *Making a **sequence diagram** in Markdown*
+
+  .............. I'll take over you. You are welcome
+
+
+ <h2> [Jensen YH@IT Blog Magazine] (https://www.jensenyhkistagrupp04.com/) <h2>
