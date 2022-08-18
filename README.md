@@ -1,4 +1,4 @@
-# CLI-play
+ CLI-play
 
 <h2>Tjena Teamet</h2>
 
@@ -37,7 +37,9 @@ In most cases, you can simply copy an emoji from a source like Emojipedia and pa
 >>>>>>> cd2b84260a2aa6d925f12cf533c4d6fe1da52130
 
 
-## Yo whats up my brooooes ```javascript
+## Yo whats up my brooooes 
+
+``` javascript
 
 function sample(arr, req) {
         arr = arr.sort(()=>{ return 0.5 - Math.random() }) ;
