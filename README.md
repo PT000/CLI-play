@@ -70,7 +70,7 @@ There are two ways to add emoji to Markdown files: copy and paste the emoji into
 Copying and Pasting Emoji
 In most cases, you can simply copy an emoji from a source like Emojipedia and paste it into your document. Many Markdown applications will automatically display the emoji in the Markdown-formatted text. The HTML and PDF files you export from your Markdown application should display the emoji.
 
->>>>>>> cd2b84260a2aa6d925f12cf533c4d6fe1da52130
+
 
 
 ## Yo whats up my brooooes 
