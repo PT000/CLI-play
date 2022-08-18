@@ -8,9 +8,6 @@ Här är en guide på hur man skriver en **Bold text** och en *Italic text*
 Syntaxen för bold är ** (text) ** och för italic det är * (text) *
 
 
-
-<h1>User Stroy-011<h1>
-
 <h2> Making a Blockquote in Markdown.<h2>
 
 
@@ -20,7 +17,8 @@ Syntaxen för bold är ** (text) ** och för italic det är * (text) *
 
 
 <<<<<<< HEAD
- # Userstory-008
+
+:smile:
 
 Putting an ***emoticon*** in markdown.
 
