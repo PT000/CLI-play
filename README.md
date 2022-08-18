@@ -105,8 +105,18 @@ public class MyApplication {
 </pre>
 
  ```
+- Making a table in Markdown
 
- <h3> Making a ***link** in Markdown.
+|Jensen|Namn|
+|:--|:--:|
+|grupp4|Båmi|
+|grpp4|Olle|
+|grpp4|Per|
+|grupp4|Ibraim|
+|grupp4|Mohamed|
+
+
+ <h3> Making a ***link*** in Markdown.
 
  - Happy Day!
 [Jensen YH@IT Blog Magazine] (https://wwww.jensenyhkistagrupp04.com/)
