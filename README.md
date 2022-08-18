@@ -1,4 +1,22 @@
- CLI-play
+<h1> Grupp 4 <h1>
+
+CLI-play 
+
+## Making a sequence diagram
+
+```mermaid
+sequenceDiagram
+    participant STOCKHOLM Flygresor
+    participant iframe
+    participant viewscreen
+    dotcom->>iframe: loads html w/ iframe url
+    iframe->>viewscreen: request template
+    viewscreen->>iframe: html & javascript & API & Database
+    iframe->>dotcom: iframe ready
+    dotcom->>iframe: set mermaid data on iframe
+    iframe->>iframe: render mermaid
+```
+
 
 <h2>Tjena Teamet</h2>
 
@@ -24,7 +42,6 @@ Putting an ***emoticon*** in markdown.
 
   - [ ] and :smile:
 ~
-    - [ ] https://github.com/octo-org/octo-repo/issues/740
 
 
 **LISTS**
@@ -91,6 +108,7 @@ function sample(arr, req) {
 
  LYNMP Logo is :  ![LYNMP logo](https://i.esdrop.com/d/dLd7n17hg9.png#style=max-width:40px;vertical-align:middle; "LYMNP Logo")
 
+***
 
 > Making a java code block in Markdown.
 
@@ -110,17 +128,19 @@ public class MyApplication {
  ```
 - Making a table in Markdown
 
-|Jensen|Namn|
+|Jensen_YH|Namn|
 |:--|:--:|
 |grupp4|Båmi|
-|grpp4|Olle|
-|grpp4|Per|
+|grupp4|Olle|
+|grupp4|Per|
 |grupp4|Ibrahim|
 |grupp4|Mohamed|
 
 
          *Skillnaden*
-    ---|--- |
+	 This is really***very***important!
+
+    |---|---|
     Frontend| Backend
 
 
