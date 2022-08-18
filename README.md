@@ -112,11 +112,11 @@ public class MyApplication {
 |grupp4|Båmi|
 |grpp4|Olle|
 |grpp4|Per|
-|grupp4|Ibraim|
+|grupp4|Ibrahim|
 |grupp4|Mohamed|
 
 
- <h3> Making a ***link*** in Markdown.
+ <h3> *Making a **link** in Markdown.
 
- - Happy Day!
-[Jensen YH@IT Blog Magazine] (https://wwww.jensenyhkistagrupp04.com/)
+ - Happy*Day*MEOW!
+[Jensen YH@IT B:log Magazine] (https://www.jensenyhkistagrupp04.com/)
