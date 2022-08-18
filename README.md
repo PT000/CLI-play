@@ -87,3 +87,18 @@ function sample(arr, req) {
 
  LYNMP Logo is :  ![LYNMP logo](https://i.esdrop.com/d/dLd7n17hg9.png#style=max-width:40px;vertical-align:middle; "LYMNP Logo")
 
+
+```java
+
+<pre>
+<code>
+public class MyApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
+  }
+
+}
+</code>
+</pre>
+
+ ```
